@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: !!!UNDER CONSTRUCTION!!! # the website title (if blank, full name will be used instead)
+title: Machine Learning Engineer at Meta # the website title (if blank, full name will be used instead)
 first_name: Aleksandr
 middle_name:
 last_name: Timashov
@@ -68,7 +68,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username: atimashov # your GitHub user name
 gitlab_username: # your GitLab user name
 x_username: # your X handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
