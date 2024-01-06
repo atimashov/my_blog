@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://timashov.ai/sitemap.xml
+Sitemap: https://atimashov.github.io/sitemap.xml
