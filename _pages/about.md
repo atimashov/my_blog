@@ -5,7 +5,7 @@ permalink: /
 subtitle: |+
   <strong>ML Engineer</strong> at <a href="https://meta.com/">Meta</a>, Malware Platform. <br><br>
   Training AI models to make this world better.<br>
-  <strong>Keep learning</strong> by taking graduate courses in AI at <a href="https://stanford.edu">Stanford University</a>, <br>
+  <strong>Keep learning</strong> by taking graduate courses in AI at <a href="https://stanford.edu">Stanford University</a>. <br>
 
 profile:
   align: right
