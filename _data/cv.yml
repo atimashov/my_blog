@@ -2,31 +2,30 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Aleksandr Timashov
     - name: Date of Birth
-      value: 14th March 1879
+      value: 10th August 1985
     - name: Languages
-      value: English, German
+      value: Russian, English
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Graduate Certificate in Artificial Intelligence;
+      institution: Stanford University, California, USA
+      year: 2021-present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Natural Language Processing with Deep Learning,
+        - Deep Learning for Computer Vision
+        - Machine Learning with Graphs
+        - Deep Generative Models
+        - Deep Multi-Task and Meta Learning
+        - Probabilistic Graphical Models
+    - title: Bachelor's Degree
+      institution: Indiana University, Indiana, USA
+      year: 2021
       description:
-        - Description 1.
-        - Description 2.
+        - GPA is 3.96
 
 - title: Experience
   type: time_table

@@ -4,8 +4,8 @@ title: about
 permalink: /
 subtitle: |+
   <strong>ML Engineer</strong> at <a href="https://meta.com/">Meta</a>, Malware Platform. <br><br>
-  Training AI models to make this world better.<br>
-  <strong>Keep learning</strong> by taking graduate courses in AI at <a href="https://stanford.edu">Stanford University</a>. <br>
+  <strong>!!! in progress</strong> Training AI models to make this world better.<br>
+  Enhancing my skills through AI graduate courses at <a href="https://stanford.edu">Stanford University</a>. <br>
 
 profile:
   align: right
@@ -22,8 +22,10 @@ selected_papers: false # true # includes a list of papers marked as "selected={t
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+**Currently:**  Hello, I am Aleksandr, a Machine Learning engineer at Meta with a deep interest in leveraging artificial intelligence to detect and prevent malicious cyber threats. The adversarial nature of this field, coupled with its significant potential to safeguard our digital society, deeply fascinates me. Through my work, I've explored various approaches of AI in cybersecurity, finding innovative ways to stay ahead of increasingly sophisticated cyber threats.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Earlier:**  I have over a decade of experience across various domains of artificial intelligence, including classic Machine Learning, Natural Language Processing, and Computer Vision. 
+Before joining Meta, I led the development of a Computer Vision team at Petronas,where my team implemented innovative solutions in security surveillance and automated plant inspections, substantially enhancing operational efficiency and safety. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Education:**
+I obtained my Bachelor's degree in Mathematics at Indiana University, a path inspired by my early success in school mathematics olympiads. Currently, I am deepening my AI expertise through graduate courses at Stanford University in my free time, aiming to integrate the latest AI advancements into practical, impactful solutions.
