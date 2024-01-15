@@ -124,8 +124,8 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_name:  AI space. # blog_name will be displayed in your blog page
+blog_description: I will write here about basics of AI. Mostly I will focus on Generative AI, NLP and Graph AI.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -175,6 +175,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  talks:
+    output: true
+    permalink: /talks/:path/
 
 announcements:
   enabled: true
@@ -365,6 +368,7 @@ enable_tooltips:            false  # enables automatic tooltip links generated f
 enable_darkmode:            true   # enables switching between light/dark modes
 enable_navbar_social:       false  # enables displaying social links in the navbar on the about page
 enable_project_categories:  true   # enables categorization of projects into multiple categories
+enable_talk_categories:     true   # enables categorization of talks into multiple categories
 enable_medium_zoom:         true   # enables image zoom feature (as on medium.com)
 enable_progressbar:         true   # enables a horizontal progress bar linked to the vertical scroll position
 
@@ -411,3 +415,4 @@ jsonresume:
   - languages
   - interests
   - references
+  - talks

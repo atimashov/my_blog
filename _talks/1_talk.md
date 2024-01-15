@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project
-description: a project with a background image
-img: assets/img/12.jpg
+title: Beyond the code.
+description: A day in the life of ML Engineer. Dive in Semi-Supervised Learning.
+img: assets/img/7.jpg
+redirect: https://www.youtube.com/watch?v=OKF4A8FAjzA
 importance: 1
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.

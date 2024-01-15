@@ -1,31 +1,31 @@
 <!-- _includes/talks.html -->
 <div class="grid-sizer"></div>
 <div class="grid-item">
-  {% if project.redirect -%}
+  {% if talk.redirect -%}
   <a href="{{ talks.redirect }}">
     {%- else -%}
     <a href="{{ talks.url | relative_url }}">
       {%- endif %}
       <div class="card hoverable">
-        {%- if project.img %}
+        {%- if talk.img %}
         {%- include figure.html
-          path=project.img
+          path=talk.img
           sizes = "250px"
-          alt="project thumbnail" -%}
+          alt="talk thumbnail" -%}
         {%- endif %}
         <div class="card-body">
-          <h2 class="card-title text-lowercase">{{ project.title }}</h2>
-          <p class="card-text">{{ project.description }}</p>
+          <h2 class="card-title text-lowercase">{{ talk.title }}</h2>
+          <p class="card-text">{{ talk.description }}</p>
           <div class="row ml-1 mr-1 p-0">
-            {%- if project.github -%}
+            {%- if talk.github -%}
             <div class="github-icon">
               <div class="icon" data-toggle="tooltip" title="Code Repository">
-                <a href="{{ project.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
+                <a href="{{ talk.github }}"><i class="fa-brands fa-github gh-icon"></i></a>
               </div>
-              {%- if project.github_stars -%}
+              {%- if talk.github_stars -%}
               <span class="stars" data-toggle="tooltip" title="GitHub Stars">
                 <i class="fa-solid fa-star"></i>
-                <span id="{{ project.github_stars }}-stars"></span>
+                <span id="{{ talk.github_stars }}-stars"></span>
               </span>
               {%- endif %}
             </div>
