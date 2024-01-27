@@ -125,7 +125,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name:  AI space. # blog_name will be displayed in your blog page
-blog_description: I will write here about basics of AI. Mostly I will focus on Generative AI, NLP and Graph AI.
+blog_description: I write about AI. Mostly I focus on Generative AI, NLP and Graph AI.
 permalink: /blog/:year/:title/
 
 # Pagination
@@ -160,8 +160,7 @@ disqus_shortname: al-folio # put your disqus shortname
 # you can display them in your blog by adding a link to the RSS feed.
 external_sources:
   - name: medium.com
-    rss_url: https://medium.com/@al-folio/feed
-
+    rss_url: https://medium.com/@aleks.k.tim/feed
 # -----------------------------------------------------------------------------
 # Collections
 # -----------------------------------------------------------------------------
@@ -269,7 +268,7 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
+display_tags: ['formatting', 'semi-supervised', 'nlp', 'math', 'code'] # these tags will be displayed on the front page of your blog
 display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------

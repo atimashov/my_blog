@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
+title: Beyond the code
+description: A day in the life of ML engineer. Besides I gave a master class in Semi-Supervised Learning.
 img: assets/img/7.jpg
-redirect: https://unsplash.com
-importance: 3
-category: work
+redirect: https://youtu.be/OKF4A8FAjzA
+importance: 1
+category: speaking
 ---
 
 Every project has a beautiful feature showcase page.
